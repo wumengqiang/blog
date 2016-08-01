@@ -1,5 +1,4 @@
 #!/bin/bash
 pkill hexo -f
-git pull origin master
 sudo hexo generate -d
-sudo forever start server.js
+pm2 restart start.sh
