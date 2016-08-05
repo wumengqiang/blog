@@ -13,7 +13,7 @@ author: 梦见世界
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://121.42.204.243/blogs
-root: /blogs
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -83,7 +83,7 @@ widgets:
 - rss
 
 #### RSS 
-rss: /atom.xml 
+# rss: /atom.xml 
 
 #### 图片相关
 imglogo:
@@ -91,7 +91,7 @@ imglogo:
   src: img/logo.png        
 favicon: img/favicon.ico     ## 网站图标    
 apple_icon: img/jacman.jpg   ## 苹果设备上的图标，背景不要透明
-author_img: img/author.jpg   ## 网站底部的博主头像
+author_img: img/author.png   ## 网站底部的博主头像
 banner_img: img/banner.jpg   ## 博客顶部的图片
 
 ### 主题颜色
@@ -107,8 +107,8 @@ index:
 
 #### 作者信息
 #author: 
-#  intro_line1:  "Hello ,I'm Larry Page in Google."    ## 网站底部的个人介绍
-#  intro_line2:  "This is my blog,believe it or not."  
+  intro_line1:  "发现问题"    ## 网站底部的个人介绍
+  intro_line2:  "并解决问题"  
 #  weibo_verifier:  ## 微博秀的验证码
 #  tsina:           ## 用于微博秀和微博分享
 #  weibo:           ## 用于显示网站底部社交按钮，下同
