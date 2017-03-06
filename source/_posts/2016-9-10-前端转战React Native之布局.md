@@ -1,3 +1,11 @@
+---
+laypost:post
+title: ReactNative布局
+tags: ReactNative
+categories: 布局
+description: ReactNative布局基础学习
+---
+
 
 ### 前言
   心血来潮想学React Native，发现不会布局了，工欲善其事，必先利其器，所以一步一步开始学习布局。
