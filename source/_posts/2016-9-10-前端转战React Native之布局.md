@@ -1,5 +1,5 @@
 ---
-laypost:post
+layout: post
 title: ReactNative布局
 tags: ReactNative
 categories: 布局
