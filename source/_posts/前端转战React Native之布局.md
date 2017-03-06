@@ -1,4 +1,10 @@
 
+---
+layout: post
+title: React Native布局
+tags:
+- 前端
+---
 ### 前言
   心血来潮想学React Native，发现不会布局了，工欲善其事，必先利其器，所以一步一步开始学习布局。
 ###  参考文章
